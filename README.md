@@ -1,8 +1,8 @@
+CareerCloud Project
 CareerCloud is a layered architecture .NET solution designed for seamless and efficient data management. It integrates multiple technologies such as ADO.NET, Entity Framework, and gRPC to provide a comprehensive solution for business logic, data access, and communication.
 
 Project Overview
 The solution is organized into 7 layers, each with a specific role to ensure separation of concerns and maintainability:
-
 CareerCloud.ADODataLayer
 CareerCloud.BusinessLogicLayer
 CareerCloud.DataAccessLayer
@@ -10,6 +10,7 @@ CareerCloud.EFDataAccessLayer
 CareerCloud.gRPC
 CareerCloud.Pocos
 CareerCloud.WebAPI
+
 Layer Descriptions
 
 1. CareerCloud.ADODataLayer
